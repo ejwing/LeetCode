@@ -76,6 +76,7 @@
     <ClCompile Include="Util_String.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="problem1.h" />
     <ClInclude Include="util.h" />
     <ClInclude Include="Util_String.h" />
   </ItemGroup>
