@@ -13,6 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Problems">
+      <UniqueIdentifier>{acea0fad-1c85-490d-b705-d957d54052bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Problems\P1_50">
+      <UniqueIdentifier>{7ca90025-d3eb-4d59-bea5-53a55daac379}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -31,6 +37,9 @@
     </ClInclude>
     <ClInclude Include="Util_String.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem1.h">
+      <Filter>Problems\P1_50</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
