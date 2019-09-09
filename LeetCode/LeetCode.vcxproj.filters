@@ -19,6 +19,12 @@
     <Filter Include="Problems\P1_50">
       <UniqueIdentifier>{7ca90025-d3eb-4d59-bea5-53a55daac379}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Problems\DataStruct">
+      <UniqueIdentifier>{35000bea-4c44-49b3-b699-8d67d3d41299}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Problems\temp">
+      <UniqueIdentifier>{ec8c3cfe-14e7-4c39-a865-6a11e3df3aa5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -40,6 +46,18 @@
     </ClInclude>
     <ClInclude Include="problem1.h">
       <Filter>Problems\P1_50</Filter>
+    </ClInclude>
+    <ClInclude Include="problem2.h">
+      <Filter>Problems\P1_50</Filter>
+    </ClInclude>
+    <ClInclude Include="DataStruct.h">
+      <Filter>Problems\DataStruct</Filter>
+    </ClInclude>
+    <ClInclude Include="temp02.h">
+      <Filter>Problems\temp</Filter>
+    </ClInclude>
+    <ClInclude Include="temp01.h">
+      <Filter>Problems\temp</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
