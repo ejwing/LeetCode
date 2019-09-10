@@ -3,7 +3,7 @@
 
 using namespace std;
 
-#include "problem1.h"
+#include "problem3.h"
 
 
 int main()
@@ -12,7 +12,8 @@ int main()
 	utility::LoadInput(inputs);
 	string p = utility::Input2Str(inputs[0].c_str());
 
-
+	Solution s;
+	int ret = s.lengthOfLongestSubstring(p);
 
 	getchar();
 	return 0;

@@ -7,7 +7,7 @@
 #include <unordered_map>
 
 using namespace std;
-using namespace PROBLEM1;
+
 
 //
 namespace PROBLEM1
@@ -33,3 +33,5 @@ namespace PROBLEM1
 		}
 	};
 }
+
+using namespace PROBLEM1;

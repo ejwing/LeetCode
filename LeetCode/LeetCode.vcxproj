@@ -77,6 +77,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="problem1.h" />
+    <ClInclude Include="problem2.h" />
+    <ClInclude Include="problem3.h" />
     <ClInclude Include="util.h" />
     <ClInclude Include="Util_String.h" />
   </ItemGroup>

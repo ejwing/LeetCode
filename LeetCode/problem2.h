@@ -7,7 +7,6 @@
 #include "DataStruct.h"
 
 using namespace std;
-using namespace PROBLEM2;
 using namespace LeetCode;
 
 //
@@ -50,3 +49,5 @@ namespace PROBLEM2
 		}
 	};
 }
+
+using namespace PROBLEM2;

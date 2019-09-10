@@ -41,5 +41,11 @@
     <ClInclude Include="problem1.h">
       <Filter>Problems\P1_50</Filter>
     </ClInclude>
+    <ClInclude Include="problem2.h">
+      <Filter>Problems\P1_50</Filter>
+    </ClInclude>
+    <ClInclude Include="problem3.h">
+      <Filter>Problems\P1_50</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
