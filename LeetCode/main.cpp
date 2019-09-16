@@ -3,7 +3,7 @@
 
 using namespace std;
 
-#include "problem3.h"
+#include "problem4.h"
 
 
 
@@ -11,12 +11,13 @@ int main()
 {
 	vector<string> inputs;
 	utility::LoadInput(inputs);
-	string p = utility::Input2Str(inputs[0].c_str());
+	vector<int> n1 = utility::Input2IntVec(inputs[0].c_str());
+	vector<int> n2 = utility::Input2IntVec(inputs[1].c_str());
 
 	Solution s;
-	int ret = s.lengthOfLongestSubstring(p);
+	double ret = s.findMedianSortedArrays(n1, n2);
 
-	getchar();
+	int c = getchar();
 	return 0;
 }
 

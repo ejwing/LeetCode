@@ -1,8 +1,8 @@
 //
 // 1. Two Sum
-// http://https://leetcode.com/problems/two-sum/
+// https://leetcode.com/problems/two-sum/
 //
-
+#pragma once
 #include <vector>
 #include <unordered_map>
 

@@ -50,9 +50,9 @@
     <ClInclude Include="problem2.h">
       <Filter>Problems\P1_50</Filter>
     </ClInclude>
-	<ClInclude Include="problem3.h">
+    <ClInclude Include="problem3.h">
       <Filter>Problems\P1_50</Filter>
-	</ClInclude>
+    </ClInclude>
     <ClInclude Include="DataStruct.h">
       <Filter>Problems\DataStruct</Filter>
     </ClInclude>
@@ -61,6 +61,12 @@
     </ClInclude>
     <ClInclude Include="temp01.h">
       <Filter>Problems\temp</Filter>
+    </ClInclude>
+    <ClInclude Include="problem4.h">
+      <Filter>Problems\P1_50</Filter>
+    </ClInclude>
+    <ClInclude Include="problem5.h">
+      <Filter>Problems\P1_50</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

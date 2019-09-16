@@ -2,7 +2,7 @@
 // 2. Add Two Numbers
 // http://leetcode.com/problems/add-two-numbers/
 //
-
+#pragma once
 #include <vector>
 #include "DataStruct.h"
 
