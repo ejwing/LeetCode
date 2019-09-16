@@ -68,5 +68,20 @@
     <ClInclude Include="problem5.h">
       <Filter>Problems\P1_50</Filter>
     </ClInclude>
+    <ClInclude Include="problem6.h">
+      <Filter>Problems\P1_50</Filter>
+    </ClInclude>
+    <ClInclude Include="problem7.h">
+      <Filter>Problems\P1_50</Filter>
+    </ClInclude>
+    <ClInclude Include="problem8.h">
+      <Filter>Problems\P1_50</Filter>
+    </ClInclude>
+    <ClInclude Include="problem9.h">
+      <Filter>Problems\P1_50</Filter>
+    </ClInclude>
+    <ClInclude Include="problem10.h">
+      <Filter>Problems\P1_50</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

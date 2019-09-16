@@ -4,7 +4,6 @@
 //
 #pragma once
 #include <vector>
-#include <unordered_map>
 #include <algorithm>
 
 using namespace std;
@@ -23,7 +22,7 @@ namespace PROBLEM4
 			size_t lenhalf = len3 / 2;
 			bool bOdd = len3 % 2;
 
-			size_t pick11 = len1 / 2, pick12, pick21, pick22;
+			size_t pick11 = len1 / 2, pick21;
 			size_t leftbound = 0, rightbound = len1 + 1;
 			while(1)
 			{

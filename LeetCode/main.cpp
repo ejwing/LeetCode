@@ -3,19 +3,17 @@
 
 using namespace std;
 
-#include "problem4.h"
-
-
+#include "problem10.h"
 
 int main()
 {
 	vector<string> inputs;
 	utility::LoadInput(inputs);
-	vector<int> n1 = utility::Input2IntVec(inputs[0].c_str());
-	vector<int> n2 = utility::Input2IntVec(inputs[1].c_str());
+	string p1 = utility::Input2Str(inputs[0].c_str());
+	string p2 = utility::Input2Str(inputs[1].c_str());
 
 	Solution s;
-	double ret = s.findMedianSortedArrays(n1, n2);
+	bool ret = s.isMatch(p1, p2);
 
 	int c = getchar();
 	return 0;

@@ -79,10 +79,15 @@
   <ItemGroup>
     <ClInclude Include="DataStruct.h" />
     <ClInclude Include="problem1.h" />
+    <ClInclude Include="problem10.h" />
     <ClInclude Include="problem2.h" />
     <ClInclude Include="problem3.h" />
     <ClInclude Include="problem4.h" />
     <ClInclude Include="problem5.h" />
+    <ClInclude Include="problem6.h" />
+    <ClInclude Include="problem7.h" />
+    <ClInclude Include="problem8.h" />
+    <ClInclude Include="problem9.h" />
     <ClInclude Include="temp01.h" />
     <ClInclude Include="temp02.h" />
     <ClInclude Include="util.h" />
