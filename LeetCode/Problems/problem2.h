@@ -3,7 +3,7 @@
 // http://leetcode.com/problems/add-two-numbers/
 //
 #pragma once
-#include "DataStruct.h"
+#include "..\DataStruct.h"
 
 using namespace std;
 using namespace LeetCode;

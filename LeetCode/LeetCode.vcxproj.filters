@@ -25,6 +25,9 @@
     <Filter Include="Problems\P1_20">
       <UniqueIdentifier>{7ca90025-d3eb-4d59-bea5-53a55daac379}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Problems\p21_40">
+      <UniqueIdentifier>{f48d5c27-ace8-415a-914a-c1aa396ef478}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">

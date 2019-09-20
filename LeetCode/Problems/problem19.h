@@ -3,7 +3,7 @@
 // https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 //
 #pragma once
-#include "datastruct.h"
+#include "..\datastruct.h"
 
 using namespace std;
 using namespace LeetCode;

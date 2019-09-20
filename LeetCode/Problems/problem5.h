@@ -4,7 +4,7 @@
 //
 #pragma once
 #include <string>
-#include "DataStruct.h"
+#include "..\DataStruct.h"
 
 using namespace std;
 

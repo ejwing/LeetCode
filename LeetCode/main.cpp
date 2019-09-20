@@ -3,7 +3,7 @@
 
 using namespace std;
 
-#include "problem20.h"
+#include ".\problems\problem20.h"
 
 int main()
 {
