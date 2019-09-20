@@ -3,19 +3,19 @@
 
 using namespace std;
 
-#include "problem10.h"
+#include "problem20.h"
 
 int main()
 {
 	vector<string> inputs;
 	utility::LoadInput(inputs);
 	string p1 = utility::Input2Str(inputs[0].c_str());
-	string p2 = utility::Input2Str(inputs[1].c_str());
+	
 
 	Solution s;
-	bool ret = s.isMatch(p1, p2);
+	bool ret = s.isValid(p1);
 
-	int c = getchar();
+	//int c = getchar();
 	return 0;
 }
 

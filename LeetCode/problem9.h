@@ -4,6 +4,7 @@
 //
 #pragma once
 #include <climits>
+#include <corecrt_memory.h>
 
 using namespace std;
 

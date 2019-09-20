@@ -80,7 +80,17 @@
     <ClInclude Include="DataStruct.h" />
     <ClInclude Include="problem1.h" />
     <ClInclude Include="problem10.h" />
+    <ClInclude Include="problem11.h" />
+    <ClInclude Include="problem12.h" />
+    <ClInclude Include="problem13.h" />
+    <ClInclude Include="problem14.h" />
+    <ClInclude Include="problem15.h" />
+    <ClInclude Include="problem16.h" />
+    <ClInclude Include="problem17.h" />
+    <ClInclude Include="problem18.h" />
+    <ClInclude Include="problem19.h" />
     <ClInclude Include="problem2.h" />
+    <ClInclude Include="problem20.h" />
     <ClInclude Include="problem3.h" />
     <ClInclude Include="problem4.h" />
     <ClInclude Include="problem5.h" />

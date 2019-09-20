@@ -16,14 +16,14 @@
     <Filter Include="Problems">
       <UniqueIdentifier>{acea0fad-1c85-490d-b705-d957d54052bd}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Problems\P1_50">
-      <UniqueIdentifier>{7ca90025-d3eb-4d59-bea5-53a55daac379}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Problems\DataStruct">
       <UniqueIdentifier>{35000bea-4c44-49b3-b699-8d67d3d41299}</UniqueIdentifier>
     </Filter>
     <Filter Include="Problems\temp">
       <UniqueIdentifier>{ec8c3cfe-14e7-4c39-a865-6a11e3df3aa5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Problems\P1_20">
+      <UniqueIdentifier>{7ca90025-d3eb-4d59-bea5-53a55daac379}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -45,13 +45,13 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="problem1.h">
-      <Filter>Problems\P1_50</Filter>
+      <Filter>Problems\P1_20</Filter>
     </ClInclude>
     <ClInclude Include="problem2.h">
-      <Filter>Problems\P1_50</Filter>
+      <Filter>Problems\P1_20</Filter>
     </ClInclude>
     <ClInclude Include="problem3.h">
-      <Filter>Problems\P1_50</Filter>
+      <Filter>Problems\P1_20</Filter>
     </ClInclude>
     <ClInclude Include="DataStruct.h">
       <Filter>Problems\DataStruct</Filter>
@@ -63,25 +63,55 @@
       <Filter>Problems\temp</Filter>
     </ClInclude>
     <ClInclude Include="problem4.h">
-      <Filter>Problems\P1_50</Filter>
+      <Filter>Problems\P1_20</Filter>
     </ClInclude>
     <ClInclude Include="problem5.h">
-      <Filter>Problems\P1_50</Filter>
+      <Filter>Problems\P1_20</Filter>
     </ClInclude>
     <ClInclude Include="problem6.h">
-      <Filter>Problems\P1_50</Filter>
+      <Filter>Problems\P1_20</Filter>
     </ClInclude>
     <ClInclude Include="problem7.h">
-      <Filter>Problems\P1_50</Filter>
+      <Filter>Problems\P1_20</Filter>
     </ClInclude>
     <ClInclude Include="problem8.h">
-      <Filter>Problems\P1_50</Filter>
+      <Filter>Problems\P1_20</Filter>
     </ClInclude>
     <ClInclude Include="problem9.h">
-      <Filter>Problems\P1_50</Filter>
+      <Filter>Problems\P1_20</Filter>
     </ClInclude>
     <ClInclude Include="problem10.h">
-      <Filter>Problems\P1_50</Filter>
+      <Filter>Problems\P1_20</Filter>
+    </ClInclude>
+    <ClInclude Include="problem11.h">
+      <Filter>Problems\P1_20</Filter>
+    </ClInclude>
+    <ClInclude Include="problem12.h">
+      <Filter>Problems\P1_20</Filter>
+    </ClInclude>
+    <ClInclude Include="problem13.h">
+      <Filter>Problems\P1_20</Filter>
+    </ClInclude>
+    <ClInclude Include="problem14.h">
+      <Filter>Problems\P1_20</Filter>
+    </ClInclude>
+    <ClInclude Include="problem15.h">
+      <Filter>Problems\P1_20</Filter>
+    </ClInclude>
+    <ClInclude Include="problem16.h">
+      <Filter>Problems\P1_20</Filter>
+    </ClInclude>
+    <ClInclude Include="problem17.h">
+      <Filter>Problems\P1_20</Filter>
+    </ClInclude>
+    <ClInclude Include="problem18.h">
+      <Filter>Problems\P1_20</Filter>
+    </ClInclude>
+    <ClInclude Include="problem19.h">
+      <Filter>Problems\P1_20</Filter>
+    </ClInclude>
+    <ClInclude Include="problem20.h">
+      <Filter>Problems\P1_20</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

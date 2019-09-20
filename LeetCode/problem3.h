@@ -3,6 +3,7 @@
 // https://leetcode.com/problems/longest-substring-without-repeating-characters/
 //
 #pragma once
+#include <string>
 #include <vector>
 #include "DataStruct.h"
 
