@@ -47,15 +47,6 @@
     <ClInclude Include="Util_String.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="problem1.h">
-      <Filter>Problems\P1_20</Filter>
-    </ClInclude>
-    <ClInclude Include="problem2.h">
-      <Filter>Problems\P1_20</Filter>
-    </ClInclude>
-    <ClInclude Include="problem3.h">
-      <Filter>Problems\P1_20</Filter>
-    </ClInclude>
     <ClInclude Include="DataStruct.h">
       <Filter>Problems\DataStruct</Filter>
     </ClInclude>
@@ -65,56 +56,92 @@
     <ClInclude Include="temp01.h">
       <Filter>Problems\temp</Filter>
     </ClInclude>
-    <ClInclude Include="problem4.h">
+    <ClInclude Include="Problems\problem1.h">
       <Filter>Problems\P1_20</Filter>
     </ClInclude>
-    <ClInclude Include="problem5.h">
+    <ClInclude Include="Problems\problem2.h">
       <Filter>Problems\P1_20</Filter>
     </ClInclude>
-    <ClInclude Include="problem6.h">
+    <ClInclude Include="Problems\problem3.h">
       <Filter>Problems\P1_20</Filter>
     </ClInclude>
-    <ClInclude Include="problem7.h">
+    <ClInclude Include="Problems\problem4.h">
       <Filter>Problems\P1_20</Filter>
     </ClInclude>
-    <ClInclude Include="problem8.h">
+    <ClInclude Include="Problems\problem5.h">
       <Filter>Problems\P1_20</Filter>
     </ClInclude>
-    <ClInclude Include="problem9.h">
+    <ClInclude Include="Problems\problem6.h">
       <Filter>Problems\P1_20</Filter>
     </ClInclude>
-    <ClInclude Include="problem10.h">
+    <ClInclude Include="Problems\problem7.h">
       <Filter>Problems\P1_20</Filter>
     </ClInclude>
-    <ClInclude Include="problem11.h">
+    <ClInclude Include="Problems\problem8.h">
       <Filter>Problems\P1_20</Filter>
     </ClInclude>
-    <ClInclude Include="problem12.h">
+    <ClInclude Include="Problems\problem9.h">
       <Filter>Problems\P1_20</Filter>
     </ClInclude>
-    <ClInclude Include="problem13.h">
+    <ClInclude Include="Problems\problem10.h">
       <Filter>Problems\P1_20</Filter>
     </ClInclude>
-    <ClInclude Include="problem14.h">
+    <ClInclude Include="Problems\problem11.h">
       <Filter>Problems\P1_20</Filter>
     </ClInclude>
-    <ClInclude Include="problem15.h">
+    <ClInclude Include="Problems\problem12.h">
       <Filter>Problems\P1_20</Filter>
     </ClInclude>
-    <ClInclude Include="problem16.h">
+    <ClInclude Include="Problems\problem13.h">
       <Filter>Problems\P1_20</Filter>
     </ClInclude>
-    <ClInclude Include="problem17.h">
+    <ClInclude Include="Problems\problem14.h">
       <Filter>Problems\P1_20</Filter>
     </ClInclude>
-    <ClInclude Include="problem18.h">
+    <ClInclude Include="Problems\problem15.h">
       <Filter>Problems\P1_20</Filter>
     </ClInclude>
-    <ClInclude Include="problem19.h">
+    <ClInclude Include="Problems\problem16.h">
       <Filter>Problems\P1_20</Filter>
     </ClInclude>
-    <ClInclude Include="problem20.h">
+    <ClInclude Include="Problems\problem17.h">
       <Filter>Problems\P1_20</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\problem18.h">
+      <Filter>Problems\P1_20</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\problem19.h">
+      <Filter>Problems\P1_20</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\problem20.h">
+      <Filter>Problems\P1_20</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\problem21.h">
+      <Filter>Problems\p21_40</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\problem22.h">
+      <Filter>Problems\p21_40</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\problem23.h">
+      <Filter>Problems\p21_40</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\problem24.h">
+      <Filter>Problems\p21_40</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\problem25.h">
+      <Filter>Problems\p21_40</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\problem26.h">
+      <Filter>Problems\p21_40</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\problem27.h">
+      <Filter>Problems\p21_40</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\problem28.h">
+      <Filter>Problems\p21_40</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\problem29.h">
+      <Filter>Problems\p21_40</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

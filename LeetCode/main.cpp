@@ -1,19 +1,21 @@
 #include "util.h"
 #include "Util_String.h"
+#include "DataStruct.h"
 
 using namespace std;
+using namespace LeetCode;
 
-#include ".\problems\problem20.h"
+#include ".\problems\problem29.h"
 
 int main()
 {
 	vector<string> inputs;
 	utility::LoadInput(inputs);
-	string p1 = utility::Input2Str(inputs[0].c_str());
-	
+	vector<vector<int>> p1 = utility::Input2IntVecVec(inputs[0].c_str());
+
 
 	Solution s;
-	bool ret = s.isValid(p1);
+	int ret = s.divide(100, -3);
 
 	//int c = getchar();
 	return 0;
