@@ -143,5 +143,14 @@
     <ClInclude Include="Problems\problem29.h">
       <Filter>Problems\p21_40</Filter>
     </ClInclude>
+    <ClInclude Include="Problems\problem30.h">
+      <Filter>Problems\p21_40</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\problem31.h">
+      <Filter>Problems\p21_40</Filter>
+    </ClInclude>
+    <ClInclude Include="Problems\problem32.h">
+      <Filter>Problems\p21_40</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
